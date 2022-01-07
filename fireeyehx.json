@@ -28,7 +28,7 @@
     "utctime_updated": "2021-11-10T01:21:58.000000Z",
     "package_name": "phantom_fireeyehx",
     "main_module": "fireeyehx_connector.py",
-    "min_phantom_version": "4.10.0.40961",
+    "min_phantom_version": "5.0.0",
     "python_version": "3",
     "app_wizard_version": "1.0.0",
     "configuration": {
